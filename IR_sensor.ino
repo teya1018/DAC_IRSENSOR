@@ -8,7 +8,7 @@ proximity, and outputs the sensor readings and detection
 status to the Serial Monitor.
 
 Programmer: 
-  Sergie D. Gomez
+  Althea Jane Cordova
 
 Date: 
   14 October 2026
